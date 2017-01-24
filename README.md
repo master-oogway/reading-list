@@ -1,5 +1,6 @@
 # 2016 - Books Completed
 
+1. 2017/01/24 - Spark Joy
 1. 2016/12/15 - The Alchemist
 1. 2016/09/10 - Modern Japan: a Very Short Introduction - by Christopher Goto-Jones
 1. 2016/08 - The Innovators - by Walter Isaacson
